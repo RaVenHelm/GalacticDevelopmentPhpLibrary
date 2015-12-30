@@ -26,7 +26,7 @@
 		 *
 		 * @var string $salt: salt for mcrypt functions
 		 */
-		private static $salt = "17th5r10ut915j0s286ab723tyu89t45";
+		private static $salt = "<INSERT YOUR SALT HERE>";
 		
 		/**
 		 *
