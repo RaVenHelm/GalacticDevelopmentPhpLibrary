@@ -6,8 +6,7 @@
 * This library, and subsequent classes, are licensed under the MIT License <https://opensource.org/licenses/MIT>
 
 ## Examples
-*
-..* RegisterVisitor
+* RegisterVisitor
 ```php
 // Registering a new user to a local SQLite3 Database Instance
 use GalacticDevelopment\Sessions\RegisterVisitor;
@@ -26,7 +25,7 @@ try {
 }
 ```
 
-..* Util#file_build_path
+* Util#file_build_path
 ``` php
 use GalacticDevelopment\Utility\Util;
 include 'path\to\GalacticDevelopment\Utility\Util.php';
