@@ -1,0 +1,23 @@
+{
+    "name": "GalacticDevelopmentPhpLibrary",
+    "license": ",MIT",
+    "keywords": ["PHP", "Development", "Library"],
+    "authors": [
+      {
+          "name": "T.C. Enders",
+          "email": "tcenders1012@gmail.com"
+      }  
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "5.1.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "GalacticDevelopment\\Databases\\": "Databases",
+            "GalacticDevelopment\\Logging\\": "Logging",
+            "GalacticDevelopment\\Utility\\": "Utility",
+            "GalacticDevelopment\\Sessions\\": "Sessions"
+        }
+    }
+}

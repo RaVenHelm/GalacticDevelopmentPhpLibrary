@@ -1,1 +1,5 @@
 *.txt
+*.lock
+*.tmp
+/vendor
+/.vscode
