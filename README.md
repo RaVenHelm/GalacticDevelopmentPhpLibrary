@@ -1,3 +1,6 @@
+![travis alt](travis)
+[travis alt]: Travis CI
+[travis]: https://travis-ci.org/RaVenHelm/GalacticDevelopmentPhpLibrary.svg?branch=master
 ## Galactic Development PHP Library
 * PHP Class Library for Utility Tasks in Web Applications
 * Compatible with PHP 5.3+
