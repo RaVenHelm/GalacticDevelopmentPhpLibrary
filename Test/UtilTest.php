@@ -9,7 +9,7 @@
         public function testFileBuildPath()
         {
             $actual = Util::file_build_path('..' , 'tmp', 'src', 'hello.php');
-            $expected = join(DIRECTORY_SEPARATOR, ['..' , 'tmp', 'src', 'hello.php']);
+            $expected = join(DIRECTORY_SEPARATOR, array('..' , 'tmp', 'src', 'hello.php'));
             $this->assertSame($expected, $actual); 
         }
         
